@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_masterscn.addSI</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>addSI</name>
+        <script><![CDATA[var addSI = Class.create();
+addSI.prototype = {
+    initialize: function() {
+    },
+
+    type: 'addSI'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-25 20:37:32</sys_created_on>
+        <sys_id>66a2316bb73213006a673978ee11a960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>addSI</sys_name>
+        <sys_package display_value="masterscn" source="x_masterscn">66bfe9a7b73213006a673978ee11a965</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="masterscn">66bfe9a7b73213006a673978ee11a965</sys_scope>
+        <sys_update_name>sys_script_include_66a2316bb73213006a673978ee11a960</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-25 20:37:32</sys_updated_on>
+    </sys_script_include>
+</record_update>

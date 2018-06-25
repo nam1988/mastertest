@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-25 20:24:41</sys_created_on>
-        <sys_id>a8cf6da7b73213006a673978ee11a98b</sys_id>
+        <sys_id>6721b5e7b73213006a673978ee11a927</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_masterscn_table</sys_name>
         <sys_package display_value="masterscn" source="x_masterscn">66bfe9a7b73213006a673978ee11a965</sys_package>
         <sys_policy/>
         <sys_scope display_value="masterscn">66bfe9a7b73213006a673978ee11a965</sys_scope>
-        <sys_update_name>ua_table_licensing_config_a8cf6da7b73213006a673978ee11a98b</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_6721b5e7b73213006a673978ee11a927</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-06-25 20:24:41</sys_updated_on>
     </ua_table_licensing_config>

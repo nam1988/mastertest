@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-25 20:24:37</sys_created_on>
-        <sys_id>e7bf6da7b73213006a673978ee11a97a</sys_id>
+        <sys_id>d321b5e7b73213006a673978ee11a90c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_masterscn_table</sys_name>
         <sys_package display_value="masterscn" source="x_masterscn">66bfe9a7b73213006a673978ee11a965</sys_package>
         <sys_policy/>
         <sys_scope display_value="masterscn">66bfe9a7b73213006a673978ee11a965</sys_scope>
-        <sys_update_name>sys_dictionary_x_masterscn_table_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-25 20:24:37</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_masterscn_table_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-25 20:30:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
